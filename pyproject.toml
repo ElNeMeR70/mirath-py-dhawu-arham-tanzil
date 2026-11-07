@@ -1,0 +1,7 @@
+[project]
+name = "mirath-py-dhawu-arham-tanzil"
+version = "1.0.0"
+description = "Dhawu Al-Arham Extended Relatives Inheritance Solver (Ahl Al-Tanzil & Ahl Al-Qarabah) (حاسبة توريث ذوي الأرحام على مذهب أهل التنزيل والقرابة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
